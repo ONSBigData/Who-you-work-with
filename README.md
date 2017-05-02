@@ -6,9 +6,10 @@ The data underpinning this interactive maps the [Centre of Expertise of the Meth
 
 The size of the arrow represents the 2015/2016 [Full Time Equivalent (FTE)](https://en.wikipedia.org/wiki/Full-time_equivalent) metric, ie number of allocated employee working full-time to projects for/in collaboration with the stakeholder. Therefore, the size of the arrow is representative of the strength of the relationship between two nodes.
 
-<br>
-<img align="center" src="thumbnail.png" alt="ONS graph">
-
+<p align="center">
+  <br>
+  <img src="thumbnail.png" alt="ONS graph">
+</p>
 
 The interactive visualisation can be accessed at this [link](https://onsbigdata.github.io/Who-you-work-with/index.html), while the full code is published in this repository.
 
