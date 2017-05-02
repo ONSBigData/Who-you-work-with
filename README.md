@@ -9,7 +9,7 @@ The size of the arrow represents the 2015/2016 [Full Time Equivalent (FTE)](http
 ![ONS graph](thumbnail.png)
 
 
-The interactive visualisation can be accessed at this link, while the full code is published in this repository.
+The interactive visualisation can be accessed at this [link](https://onsbigdata.github.io/Who-you-work-with/index.html), while the full code is published in this repository.
 
 The visualisation was created using the [D3.js v3](https://d3js.org/).
 
@@ -24,4 +24,4 @@ This interactive visualisation was cited in the [Independent review of Methodolo
 
 ## LICENSE
 
-Released under the [GNU General Public License, version 3](https://github.com/ONSBigData/Who-you-work-with/blob/master/LICENSE).
+Released under the [GNU General Public License, version 3](LICENSE).
