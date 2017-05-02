@@ -1,0 +1,93 @@
+@import url("//fonts.googleapis.com/css?family=Open+Sans:400,300,600|Open+Sans+Condensed:300");
+
+
+.background {
+  fill: #fff;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  color: black;
+  font-size: 30px;
+  margin-left: 0.3cm;
+}
+
+text {
+  text-shadow: 0 0.5px 0 #000, 0.5px 0 0 #000, 0 -0.5px 0 #000, -0.5px 0 0 #000;
+  pointer-events: none;
+  color: #fff;
+}
+
+p {
+  margin-left: 0.3cm;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.labels {
+  font-size: 30px;
+  font-family: 'Noto Sans', sans-serif;
+  color: slategray;
+}
+
+.link {
+  stroke: slategray;
+  stroke-opacity: 0.8;
+  fill: none;
+}
+
+.leglabels {
+  font-family: 'Noto Sans', sans-serif;
+  color: slategray;
+  font-size: 15px;
+  text-anchor: start;
+}
+
+.leglink {
+  stroke: slategray;
+  stroke-opacity: 0.6;
+}
+
+.marker {
+  fill: slategray;
+}
+
+.leftCol {
+  width: 100%;
+  margin: 0 auto;
+}
+
+circle.internal {
+  fill: mediumaquamarine;
+}
+circle.external {
+  fill: LightSalmon;
+}
+
+#mainText {
+  margin-top: 0px;
+  display: inline-block;
+  width: 20%;
+  height: 100%;
+  vertical-align: top;
+}
+
+#Chart {
+  margin-top: 0px;
+  display: inline-block;
+  width: 75%;
+  height: 100%;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: -3px;
+  font: 14px sans-serif;
+  background: none;
+  border: 0px;
+  pointer-events: none;
+}
