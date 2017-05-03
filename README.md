@@ -13,7 +13,7 @@ The size of the arrow represents the 2015/2016 [Full Time Equivalent (FTE)](http
 
 The interactive visualisation can be accessed at this [link](https://onsbigdata.github.io/Who-you-work-with/index.html), while the full code is published in this repository.
 
-The visualisation was created using the [D3.js v3](https://d3js.org/).
+The visualisation was created using [D3.js v3](https://d3js.org/).
 
 ## Useful links
 
