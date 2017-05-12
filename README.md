@@ -26,4 +26,4 @@ This interactive visualisation was cited in the [Independent review of Methodolo
 
 ## LICENSE
 
-Released under the [GNU General Public License, version 3](LICENSE).
+Released under the [MIT License](LICENSE).
